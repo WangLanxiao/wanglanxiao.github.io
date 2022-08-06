@@ -1,0 +1,3 @@
+User-agent: *
+
+Sitemap: https://wanglanxiao.github.io/sitemap.xml

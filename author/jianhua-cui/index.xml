@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Jianhua Cui | Lanxiao Wang</title>
+    <link>https://wanglanxiao.github.io/author/jianhua-cui/</link>
+      <atom:link href="https://wanglanxiao.github.io/author/jianhua-cui/index.xml" rel="self" type="application/rss+xml" />
+    <description>Jianhua Cui</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 11 Oct 2021 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wanglanxiao.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Jianhua Cui</title>
+      <link>https://wanglanxiao.github.io/author/jianhua-cui/</link>
+    </image>
+    
+    <item>
+      <title>CrossDet: Crossline Representation for Object Detection</title>
+      <link>https://wanglanxiao.github.io/publication/crossdet/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://wanglanxiao.github.io/publication/crossdet/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

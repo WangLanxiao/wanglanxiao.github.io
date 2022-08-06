@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Publications | Lanxiao Wang</title>
+    <link>https://wanglanxiao.github.io/publication/</link>
+      <atom:link href="https://wanglanxiao.github.io/publication/index.xml" rel="self" type="application/rss+xml" />
+    <description>Publications</description>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://wanglanxiao.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
+      <title>Publications</title>
+      <link>https://wanglanxiao.github.io/publication/</link>
+    </image>
+    
+    <item>
+      <title>Real-time panoptic segmentation with relationship between adjacent pixels and boundary prediction</title>
+      <link>https://wanglanxiao.github.io/publication/rpsr/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://wanglanxiao.github.io/publication/rpsr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>What Happens in Crowd Scenes: A New Dataset about Crowd Scenes for Image Captioning</title>
+      <link>https://wanglanxiao.github.io/publication/magc/</link>
+      <pubDate>Wed, 20 Jul 2022 00:00:00 +0000</pubDate>
+      <guid>https://wanglanxiao.github.io/publication/magc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>RefCrowd: Grounding the Target in Crowd with Referring Expressions</title>
+      <link>https://wanglanxiao.github.io/publication/refcrowd/</link>
+      <pubDate>Mon, 30 May 2022 00:00:00 +0000</pubDate>
+      <guid>https://wanglanxiao.github.io/publication/refcrowd/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>POS-trends Dynamic-Aware Model for Video Caption</title>
+      <link>https://wanglanxiao.github.io/publication/pda/</link>
+      <pubDate>Tue, 30 Nov 2021 00:00:00 +0000</pubDate>
+      <guid>https://wanglanxiao.github.io/publication/pda/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CrossDet: Crossline Representation for Object Detection</title>
+      <link>https://wanglanxiao.github.io/publication/crossdet/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      <guid>https://wanglanxiao.github.io/publication/crossdet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Multi-stage Tag Guidance Network in Video Caption</title>
+      <link>https://wanglanxiao.github.io/publication/mtgn/</link>
+      <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
+      <guid>https://wanglanxiao.github.io/publication/mtgn/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

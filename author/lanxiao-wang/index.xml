@@ -45,7 +45,7 @@
     └── part09.zip/
 &lt;/code&gt;&lt;/pre&gt;
 &lt;h2 id=&#34;annotations&#34;&gt;&lt;strong&gt;Annotations&lt;/strong&gt;&lt;/h2&gt;
-&lt;p&gt;In CrowdCaption dataset, each image may contains multiple caption annotations, and each caption annotations has a detailed region grounding annotation. The location can be denoted as (x_c, y_c, w, h), where (x, y) denotes the top left of the region, w and h denote its width and height. The dataset annotations are provided in JSON format. Researchers can read the annotation files by the following Python 3 code:&lt;/p&gt;
+&lt;p&gt;In CrowdCaption dataset, each image may contains multiple caption annotations, and each caption annotations has a detailed region grounding annotation. The location can be denoted as (x, y, w, h), where (x, y) denotes the top left of the region, w and h denote its width and height. The dataset annotations are provided in JSON format. Researchers can read the annotation files by the following Python 3 code:&lt;/p&gt;
 &lt;pre&gt;&lt;code&gt; 
 import json
 

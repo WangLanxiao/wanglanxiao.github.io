@@ -5,12 +5,20 @@
     <link>https://wanglanxiao.github.io/author/huiyu-xiong/</link>
       <atom:link href="https://wanglanxiao.github.io/author/huiyu-xiong/index.xml" rel="self" type="application/rss+xml" />
     <description>Huiyu Xiong</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 23 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 23 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://wanglanxiao.github.io/images/icon_hua2ec155b4296a9c9791d015323e16eb5_11927_512x512_fill_lanczos_center_3.png</url>
       <title>Huiyu Xiong</title>
       <link>https://wanglanxiao.github.io/author/huiyu-xiong/</link>
     </image>
+    
+    <item>
+      <title>A Multi-granularity Feature Fusion Model for Pedestrian Attribute Recognition</title>
+      <link>https://wanglanxiao.github.io/publication/mffm/</link>
+      <pubDate>Wed, 23 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://wanglanxiao.github.io/publication/mffm/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>STSI: Efficiently Mine Spatio-Temporal Semantic Information between Different Multimodal for Video Captioning</title>

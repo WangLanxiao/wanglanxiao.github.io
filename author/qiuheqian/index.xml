@@ -92,14 +92,6 @@ Instead of using single IoU threshold 0.5, we adopt the mean accuracy &lt;strong
     </item>
     
     <item>
-      <title>CrossDet: Crossline Representation for Object Detection</title>
-      <link>https://wanglanxiao.github.io/publication/crossdet/</link>
-      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
-      <guid>https://wanglanxiao.github.io/publication/crossdet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Multi-stage Tag Guidance Network in Video Caption</title>
       <link>https://wanglanxiao.github.io/publication/mtgn/</link>
       <pubDate>Mon, 12 Oct 2020 00:00:00 +0000</pubDate>
